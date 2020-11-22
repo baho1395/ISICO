@@ -1,5 +1,5 @@
 # ISICO
-Pallet Plannin Project
+# Pallet Plannin Project
 
 echo "# ISICO" >> README.md
 git init
